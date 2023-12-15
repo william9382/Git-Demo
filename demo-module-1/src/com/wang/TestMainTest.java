@@ -2,6 +2,6 @@ package com.wang;
 
 public class TestMainTest {
     public static void main(String[] args) {
-        System.out.println("testbranchtest");
+        System.out.println("testbranchtet");
     }
 }
